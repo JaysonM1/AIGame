@@ -1,0 +1,25 @@
+{
+  "name": "aigame",
+  "version": "1.0.0",
+  "description": "AI game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaysonM1/AIGame.git"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "Jayson Morgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaysonM1/AIGame/issues"
+  },
+  "homepage": "https://github.com/JaysonM1/AIGame#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
